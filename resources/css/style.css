@@ -1,0 +1,34 @@
+body{
+    font-size: 16px;
+    background-color: black;
+    margin: 0px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 3rem;
+}
+
+a{
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+.mobile{
+    margin-top: 2rem;
+}
+
+.container span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 2.6rem;
+}
+
+.container p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    color: grey;
+}
